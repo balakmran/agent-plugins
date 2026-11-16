@@ -2,10 +2,17 @@
   "name": "sterling",
   "description": "Adopt, fix and upgrade Sterling, the Java 21+ Gradle quality gate, with your coding agent.",
   "category": "development",
-  "keywords": ["java", "gradle", "error-prone", "nullaway", "spotbugs", "jacoco"],
+  "keywords": [
+    "java",
+    "gradle",
+    "error-prone",
+    "nullaway",
+    "spotbugs",
+    "jacoco"
+  ],
   "repo": "balakmran/sterling",
   "path": "agent-plugins/sterling",
-  "tag": "v0.0.0",
-  "sha": "0000000000000000000000000000000000000000",
-  "version": "0.0.0"
+  "tag": "v0.2.0",
+  "sha": "881423c87c30652fa299043aac2192580f73d5eb",
+  "version": "0.2.0"
 }
