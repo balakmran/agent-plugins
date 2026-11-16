@@ -4,5 +4,27 @@
     "name": "balakmran"
   },
   "description": "Agent plugins by balakmran: portable skills and tools for coding agents, built to the Agent Plugins spec.",
-  "plugins": []
+  "plugins": [
+    {
+      "name": "sterling",
+      "description": "Adopt, fix and upgrade Sterling, the Java 21+ Gradle quality gate, with your coding agent.",
+      "version": "0.2.0",
+      "category": "development",
+      "keywords": [
+        "java",
+        "gradle",
+        "error-prone",
+        "nullaway",
+        "spotbugs",
+        "jacoco"
+      ],
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/balakmran/sterling.git",
+        "path": "agent-plugins/sterling",
+        "ref": "v0.2.0",
+        "sha": "881423c87c30652fa299043aac2192580f73d5eb"
+      }
+    }
+  ]
 }
