@@ -8,7 +8,7 @@
     {
       "name": "sterling",
       "description": "Adopt, fix and upgrade Sterling, the Java 21+ Gradle quality gate, with your coding agent.",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "category": "development",
       "keywords": [
         "java",
@@ -22,8 +22,8 @@
         "source": "github",
         "repo": "balakmran/sterling",
         "path": "agent-plugins/sterling",
-        "ref": "v0.2.0",
-        "sha": "881423c87c30652fa299043aac2192580f73d5eb"
+        "ref": "v0.3.0",
+        "sha": "5791dec129076a67ef235d31e67250d2c005f76e"
       }
     }
   ]
