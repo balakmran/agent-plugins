@@ -17,7 +17,7 @@ marketplace files below use each agent's own format.
 
 | Plugin | Version | Description | Source |
 | --- | --- | --- | --- |
-| `sterling` | 0.2.0 | Adopt, fix and upgrade Sterling, the Java 21+ Gradle quality gate, with your coding agent. | [`balakmran/sterling/agent-plugins/sterling`](https://github.com/balakmran/sterling/tree/v0.2.0/agent-plugins/sterling) |
+| `sterling` | 0.3.0 | Adopt, fix and upgrade Sterling, the Java 21+ Gradle quality gate, with your coding agent. | [`balakmran/sterling/agent-plugins/sterling`](https://github.com/balakmran/sterling/tree/v0.3.0/agent-plugins/sterling) |
 
 <!-- plugins:end -->
 
